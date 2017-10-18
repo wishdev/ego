@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 # Copyright 2010-2015 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 #
@@ -24,7 +26,7 @@ import tempfile
 # These are the versions we fully support and require to pass tests.
 PYTHON_SUPPORTED_VERSIONS = [
 	'3.4',
-    '3.6'
+	'3.6'
 ]
 # The rest are just "nice to have".
 PYTHON_NICE_VERSIONS = [
@@ -69,7 +71,7 @@ class Colors(object):
 
 
 def get_python_executable(ver):
-	"""Find the right python executable for |ver|"""
+	"""Find the right python executable for *ver*"""
 	if ver in ('pypy', 'pypy3'):
 		prog = ver
 	else:

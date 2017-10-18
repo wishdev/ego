@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
-ego
+Script for running ego and ego modules
 
 Funtoo's personality tool
 """

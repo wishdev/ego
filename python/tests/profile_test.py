@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+This is the profile test.
+"""
+
 import sys
 import unittest
 sys.path.append("..")

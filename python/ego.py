@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+"""
+Ego is Funtoo's personality manager.
+"""
+
 import argparse
 import json
 from collections import OrderedDict
