@@ -15,12 +15,12 @@ Ego - Funtoo's personality manager - is a utility that can manage multiple thing
    code
    design/README
    design/merge_actions
-   ego.1
-   ego.conf.5
-   ego-doc.1
-   ego-profile.8
-   ego-sync.8
-   ego-kit.1
+   ref/cli/ego.1
+   ref/cli/ego.conf.5
+   ref/cli/ego-doc.1
+   ref/cli/ego-profile.8
+   ref/cli/ego-sync.8
+   ref/cli/ego-kit.1
 
 Indices and tables
 ==================

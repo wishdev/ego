@@ -36,4 +36,4 @@ one exists, such as ``edoc install | less``.
 LICENSE
 --------
 
-.. include:: ../COPYRIGHT.txt
+.. include:: ../../../COPYRIGHT.txt
